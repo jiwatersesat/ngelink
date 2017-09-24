@@ -25,14 +25,3 @@ if(a_to_vk)
 {a_to_vk.innerHTML+=a_to_va;}}
 function a_to_fa()
 {var a_to_vf=new Array();protected_links=protected_links.replace(" ","");a_to_vf=protected_links.split(",");return a_to_vf;}
-
-- Setelah itu upload file safelink.js nya tadi ke Github. Cara Upload File JavaScript di GitHub
-
-
-
- 
-- Setelah selesai di upload silakan copy url hasil upload nya tadi dan silakan kembali ke Laman blog yang sudah kita buat tadi silakan edit. Ganti url https://cdn.rawgit.com/dedi96/safelink/813ce72f/safelinkga.js dengan url hasil upload.an di ghitub tadi, dan begitu juga http://www.safelink.ga/p/generate.html ganti dengan url Laman statis yang sudah kita buat sebelumnya. Setelah itu Perbarui.
-
-- Kemudian kita edit Template blog, masuk pada menu Tema / Template > Edit HTML. Cari url https://cdn.rawgit.com/dedi96/safelink/813ce72f/safelinkga.js dan http://www.safelink.ga/p/generate.html ganti dengan masing" url yang sudah kita buat tadi sebelumnya, masih sama seperti diatas. Dan begitu juga dengan url lainnya. Setelah itu Simpan Template.
-
-- Disini blog Safelink Corverter nya sudah bisa kita gunakan, untuk supaya blog Utama kita bisa redirect link masukkan script dibawah ini tepat di atas code </body>. Terus simpan.
